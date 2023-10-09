@@ -6,8 +6,6 @@ Absolutely, here's a fun and comprehensive README template for a Blackjack game 
 
 Welcome to **Blackjack Game** - where the stakes are high, and the wins are exhilarating!
 
-![Blackjack Banner]([banner_link_here.jpg](https://png.pngtree.com/thumb_back/fw800/background/20230704/pngtree-detailed-view-of-a-blackjack-table-with-playing-cards-and-gaming-image_3739267.jpg)) <!--- Put a link to a banner image -->
-
 ## 🎯 About The Game
 
 **Blackjack**, also known as 21, is one of the most popular casino games worldwide. It's a card game where players attempt to reach a hand value as close to 21 as possible - without exceeding it. Going over is called a "bust," and you lose. The goal is to beat the dealer's hand, either by having a total closer to 21 or if the dealer busts.
